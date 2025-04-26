@@ -8,6 +8,9 @@ Language: Javascript, HTML, CSS
 
 Library: p5.js
 
+A prototype was also made using Python. The goal was to understand the fundamentals of how a double pendulum moves and basic animation in a language I am more familiar with.
+I used matplotlib, numpy, sympy, and scipy for this version. 
+
 This program is a double pendulum simulator with goals of giving a visual of chaos theory. When working with chaotic systems, such as double pendulums,
 a small, almost negligible, change in initial values can drastically impact future pathways.
 
