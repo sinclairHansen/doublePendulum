@@ -1,7 +1,7 @@
 # doublePendulum
-Try the Double Pendulum Simulator --> [Double Pendulum Simulator](http://127.0.0.1:5500/pendulum.html](https://sinclairhansen.github.io/Blog/Pendulum/pendulum.html)
+Try the Double Pendulum Simulator --> [Double Pendulum Simulator](https://sinclairhansen.github.io/Blog/Pendulum/pendulum.html)
 
-For a deep dive on this project --> [Learning Chaos Theory Through Double Pendulums](http://127.0.0.1:5500/chaosTheory.html](https://sinclairhansen.github.io/Blog/chaosTheory.html)
+For a deep dive on this project --> [Learning Chaos Theory Through Double Pendulums](https://sinclairhansen.github.io/Blog/chaosTheory.html)
 
 
 Language: Javascript, HTML, CSS
